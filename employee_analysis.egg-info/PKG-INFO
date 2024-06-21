@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: employee_analysis
+Version: 0.1
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy

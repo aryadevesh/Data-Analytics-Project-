@@ -1,0 +1,2 @@
+[console_scripts]
+employee_analysis = employee_analysis.facade:main
