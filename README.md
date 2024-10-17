@@ -1,19 +1,5 @@
 # Employee Analysis Package Documentation
 
-## Table of Contents
-
-1. [Introduction]
-2. [Installation]
-3. [Project Structure]
-4. [Usage]
-5. [Modules]
-    - [Employee Analysis Facade]
-    - [Transformations]
-    - [Utilities]
-6. [Testing]
-7. [Examples]
-8. [License]
-
 ## Introduction
 
 The Employee Analysis package analyzes employee performance data, applies various transformations, and categorizes employees based on their performance ratings. This package uses design patterns like Strategy, Factory, and Facade to ensure modularity and maintainability.
