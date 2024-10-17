@@ -33,6 +33,19 @@ csv_file = "path/to/your/dataset.csv"
 facade = EmployeeAnalysisFacade(csv_file)
 facade.run()
 
+### output
+
+![Bar Graph](image.png)
+
+![Transformations](image-1.png)
+
+![Bell curve](image-2.png)
+
+
+### Conclusion
+This project addresses the need for a robust tool for employee performance analysis by leveraging advanced data transformation techniques and design patterns. The resulting software package is a valuable asset for organizations aiming to improve their performance evaluation processes, providing a foundation for data -driven decision- making.
+
+
 ## Modules
 Employee Analysis Facade
 The EmployeeAnalysisFacade class provides a simplified interface to run the entire employee analysis process.
